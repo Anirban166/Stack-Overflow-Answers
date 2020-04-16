@@ -1,10 +1,8 @@
 # Stack Overflow Answers
 ---
 
-This repository contains my code snippets / full programs posted on Stack Overflow as answers. (Mostly C++)
-
-Note that:
-
+This repository contains most of my code snippets (from answers) posted on Stack Overflow. (Mostly C++) <br>
 - Filenames here are the question titles. 
 - There is a link to the corresponding SO question in each file.
-- It contains only my written programs (tested via online compilers such as Godbolt/Jdoodle) and not my full answer. 
+- Code snippets are seperated by an auto-generated newline.
+- Contains some full programs (tested via online compilers such as Godbolt/Jdoodle) but not my full answer. (only code here)
